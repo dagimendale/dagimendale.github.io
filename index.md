@@ -115,6 +115,114 @@ end
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
+/* Basic styling for your portfolio */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Navigation bar */
+header nav ul {
+    list-style-type: none;
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+header nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Intro Section */
+.intro {
+    text-align: center;
+    padding: 50px;
+    background-color: #fff;
+}
+
+.intro h1 {
+    font-size: 3em;
+    margin: 0;
+}
+
+.intro p {
+    font-size: 1.2em;
+    margin-top: 10px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
+
+/* Skills Section */
+#skills {
+    background-color: #f9f9f9;
+    padding: 40px;
+    text-align: center;
+}
+
+.skills-list ul {
+    list-style: none;
+    padding: 0;
+    font-size: 1.2em;
+}
+
+.skills-list ul li {
+    margin: 10px 0;
+}
+
+/* Contact Section */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+
+footer ul {
+    list-style-type: none;
+}
+
+footer ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+footer ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+footer ul li a:hover {
+    text-decoration: underline;
+}
+
+
+
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
