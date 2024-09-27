@@ -1,3 +1,7 @@
+---
+layout: default
+---
+# Project Portfolio
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
@@ -35,6 +39,7 @@ end
 ```
 
 #### Header 4
+
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
