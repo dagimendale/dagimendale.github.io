@@ -52,8 +52,11 @@ This project provided hands-on experience with real-world penetration testing te
 
 If you’d like to collaborate or have any questions, feel free to reach out!
 
-[LinkedIn Profile](https://www.linkedin.com/in/dagim-endale)
+[LinkedIn](https://www.linkedin.com/in/dagim-endale)
+
 Email: Dagim64@gmail.com
+
+[Github](https://github.com/dagimendale)
 
 ---
 
