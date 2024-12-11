@@ -113,7 +113,7 @@ Email: Dagim64@gmail.com
 [Github](https://github.com/dagimendale)
 
 ---
-[Me](file:///C:/Users/dagim/Pictures/face.png)
+
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 
