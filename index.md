@@ -1,14 +1,9 @@
 ---
 layout: default
 ---
-# Project Portfolio
-
----
-layout: default
-title: "Cybersecurity Portfolio - Dagim Endale"
----
-
 # Cybersecurity Projects Portfolio
+---
+## By: Dagim Endale
 
 Welcome to my personal portfolio showcasing my work and projects in cybersecurity. I specialize in network security, cloud solutions, and risk management, with hands-on experience in using tools like Splunk, Azure, and Kali Linux.
 
