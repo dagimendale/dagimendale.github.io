@@ -14,17 +14,24 @@ I aim to leverage my skills and knowledge to contribute to innovative cybersecur
 ## Featured Projects
 
 ### Securing Cloud Apps within Azure
+In this project, I designed and secured a cloud-based web application using Azure services to ensure a robust and scalable security posture. The application was built using Azure App Services and Docker for containerization, with a focus on secure data transmission and compliance with best practices.
+
+I implemented SSL certificates using Azure Key Vault to secure communication, and configured Azure Front Door and Web Application Firewall (WAF) to safeguard the application against common web vulnerabilities. The project also included securing sensitive data by leveraging Azure's built-in security features, such as Security Center and Key Vault.
+
+This project showcases my ability to design secure cloud architectures, manage sensitive data in a cloud environment, and utilize Azure's suite of tools to ensure continuous protection against potential security threats.
+
+[Link to Full Github repo w/ Detailed Breakdown](https://github.com/dagimendale/Securing-Cloud-Apps-within-Azure)
 
 
 ### Splunk Defense Project
 In this project, I designed a **custom monitoring environment using Splunk** to protect a fictional organization. I created custom reports, alerts, dashboards, and add-on apps to monitor and defend against cybersecurity threats. After experiencing a **simulated attack**, I analyzed the results to assess the effectiveness of my solutions.
 
-[Link to Full Presentation](https://docs.google.com/presentation/d/1y3UsZdG6wa0_fxMQmoKxacm4fJd55DOYWjlIQ-QnGo8/edit?usp=sharing)
+[Link to Full Github Repo w/ Presentation](https://github.com/dagimendale/Splunk)
 
 ### Bootcon Project
 In this project, I demonstrated the use of AxCrypt, a file encryption tool, to safeguard sensitive data against exfiltration. I showcased encryption and decryption processes, key-sharing capabilities, and real-life applications such as securing emails and sensitive data (e.g., credit card information). The project highlighted AxCrypt's use of AES-256 encryption and its value in modern cybersecurity practices.
 
-[Link to Full Presentation](https://docs.google.com/presentation/d/17u-7SQu_B98xxRnnIfkiJfECpbaYUeszZZ3E3n0MrEk/edit?usp=sharing)
+[Link to Full Github Repo w/ Presentation](https://github.com/dagimendale/BootCon)
 
 ### Penetration Test Report
 As part of a comprehensive penetration testing engagement for a fictional organization, Rekall Corporation, I identified and exploited vulnerabilities across their technical infrastructure over three phases:
@@ -37,7 +44,7 @@ As part of a comprehensive penetration testing engagement for a fictional organi
 
 This project provided hands-on experience with real-world penetration testing techniques and emphasized the importance of documenting vulnerabilities and proposing mitigations.
 
-[Link to Full Report](https://docs.google.com/document/d/1EhAyd2R0ImUmKKzyDb8KcVjS0kDEahIgWr9tlUI4eWw/edit?usp=sharing)
+[Link to Full Github Repo w/ Report](https://github.com/dagimendale/PenTest)
 
 
 ### Skills
@@ -49,6 +56,51 @@ This project provided hands-on experience with real-world penetration testing te
 - ** **:  
 - ** **:  
 - ** **:
+1. Security Monitoring & Incident Response
+- Splunk: Log analysis, dashboards, alerting, and threat monitoring.
+- Wireshark: Network protocol analysis.
+- TCPdump: Capturing and analyzing network traffic.
+- Snort: Network intrusion detection.
+- SIEM (Security Information and Event Management) tools.
+  
+2. Cloud Security
+- Azure Security: Key Vault, Azure Security Center, WAF, Front Door, App Services.
+- AWS Security: IAM, AWS Shield, WAF, CloudTrail.
+- Cloud-native security practices (securing cloud storage, networking, and VMs).
+- Container Security: Docker security practices and vulnerability scanning.
+
+3. Penetration Testing & Vulnerability Assessment
+- Kali Linux: Pen-testing tools like Metasploit, Burp Suite, Nmap, and Nikto.
+- OWASP Top 10: Knowledge of the top web application vulnerabilities.
+- Web Application Security: SQL Injection, Cross-site Scripting (XSS), Cross-site Request Forgery (CSRF), etc.
+- Network Penetration Testing: Exploiting vulnerabilities in network configurations, protocols, and services.
+
+4. Cryptography & Data Protection
+- Encryption Algorithms: AES-256, RSA, etc.
+- Public Key Infrastructure (PKI): SSL/TLS, certificate management (Azure Key Vault, OpenSSL).
+- Data Loss Prevention (DLP): Techniques for preventing unauthorized access or leakage of sensitive information.
+  
+5. Risk Management & Compliance
+- NIST Cybersecurity Framework: Identifying, protecting, detecting, responding, and recovering from cyber threats.
+- ISO 27001: Information security management systems.
+- GDPR & HIPAA Compliance: Data privacy and protection regulations.
+- CIS Controls: Implementing security controls to protect organizations.
+  
+6. Programming & Scripting
+- Python: Scripting for automation, data parsing, and vulnerability analysis.
+- Bash/Shell Scripting: Automating repetitive tasks and system administration.
+- JavaScript: Understanding of web application security through JavaScript vulnerabilities.
+  
+7. Network Security
+- Firewall Configuration: Setting up and managing firewalls (iptables, UFW).
+- VPN Technologies: OpenVPN, IPSec, SSL/TLS VPNs.
+- Intrusion Detection Systems (IDS)/Intrusion Prevention Systems (IPS): Deploying and configuring IDS/IPS solutions.
+  
+8. Security Auditing & Forensics
+- Autopsy: Digital forensics for investigating compromised systems.
+- Log Analysis: Reviewing system logs for suspicious activity and attacks.
+- File Integrity Monitoring (FIM): Tools for monitoring file system integrity.
+  
   
 ### Contact Me
 
