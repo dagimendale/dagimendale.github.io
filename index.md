@@ -49,54 +49,54 @@ This project provided hands-on experience with real-world penetration testing te
 
 ### Skills
 
-- **Splunk**: Designed custom reports, dashboards, and alerts to monitor systems and respond to cyber threats.
-- **Penetration Testing**: Hands-on experience using Kali Linux for vulnerability assessments and penetration tests.
-- **Cloud Security (Azure, AWS)**: Secure cloud infrastructures and applications using native security tools.
-- **Python & Bash Scripting**: Writing scripts to automate security monitoring and incident response.
-- ** **:  
-- ** **:  
-- ** **:
-1. Security Monitoring & Incident Response
+1. **Security Monitoring & Incident Response**
 - Splunk: Log analysis, dashboards, alerting, and threat monitoring.
 - Wireshark: Network protocol analysis.
 - TCPdump: Capturing and analyzing network traffic.
 - Snort: Network intrusion detection.
 - SIEM (Security Information and Event Management) tools.
+
   
-2. Cloud Security
+2. **Cloud Security**
 - Azure Security: Key Vault, Azure Security Center, WAF, Front Door, App Services.
 - AWS Security: IAM, AWS Shield, WAF, CloudTrail.
 - Cloud-native security practices (securing cloud storage, networking, and VMs).
 - Container Security: Docker security practices and vulnerability scanning.
 
-3. Penetration Testing & Vulnerability Assessment
+
+3. **Penetration Testing & Vulnerability Assessment**
 - Kali Linux: Pen-testing tools like Metasploit, Burp Suite, Nmap, and Nikto.
 - OWASP Top 10: Knowledge of the top web application vulnerabilities.
 - Web Application Security: SQL Injection, Cross-site Scripting (XSS), Cross-site Request Forgery (CSRF), etc.
 - Network Penetration Testing: Exploiting vulnerabilities in network configurations, protocols, and services.
 
-4. Cryptography & Data Protection
+
+4. **Cryptography & Data Protection**
 - Encryption Algorithms: AES-256, RSA, etc.
 - Public Key Infrastructure (PKI): SSL/TLS, certificate management (Azure Key Vault, OpenSSL).
 - Data Loss Prevention (DLP): Techniques for preventing unauthorized access or leakage of sensitive information.
+
   
-5. Risk Management & Compliance
+5. **Risk Management & Compliance**
 - NIST Cybersecurity Framework: Identifying, protecting, detecting, responding, and recovering from cyber threats.
 - ISO 27001: Information security management systems.
 - GDPR & HIPAA Compliance: Data privacy and protection regulations.
 - CIS Controls: Implementing security controls to protect organizations.
+
   
-6. Programming & Scripting
+6. **Programming & Scripting**
 - Python: Scripting for automation, data parsing, and vulnerability analysis.
 - Bash/Shell Scripting: Automating repetitive tasks and system administration.
 - JavaScript: Understanding of web application security through JavaScript vulnerabilities.
+
   
-7. Network Security
+7. **Network Security**
 - Firewall Configuration: Setting up and managing firewalls (iptables, UFW).
 - VPN Technologies: OpenVPN, IPSec, SSL/TLS VPNs.
 - Intrusion Detection Systems (IDS)/Intrusion Prevention Systems (IPS): Deploying and configuring IDS/IPS solutions.
+
   
-8. Security Auditing & Forensics
+8. **Security Auditing & Forensics**
 - Autopsy: Digital forensics for investigating compromised systems.
 - Log Analysis: Reviewing system logs for suspicious activity and attacks.
 - File Integrity Monitoring (FIM): Tools for monitoring file system integrity.
