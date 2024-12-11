@@ -3,6 +3,150 @@ layout: default
 ---
 # Project Portfolio
 
+---
+layout: default
+title: "Cybersecurity Portfolio - Dagim Endale"
+---
+
+# Cybersecurity Projects Portfolio
+
+Welcome to my personal portfolio showcasing my work and projects in cybersecurity. I specialize in network security, cloud solutions, and risk management, with hands-on experience in using tools like Splunk, Azure, and Kali Linux.
+
+## Featured Projects
+
+### Splunk Defense Project
+In this project, I designed a **custom monitoring environment using Splunk** to protect a fictional organization. I created custom reports, alerts, dashboards, and add-on apps to monitor and defend against cybersecurity threats. After experiencing a **simulated attack**, I analyzed the results to assess the effectiveness of my solutions.
+
+[Link to Full Presentation](https://docs.google.com/presentation/d/1y3UsZdG6wa0_fxMQmoKxacm4fJd55DOYWjlIQ-QnGo8/edit?usp=sharing)
+
+### Skills
+
+- **Splunk**: Designed custom reports, dashboards, and alerts to monitor systems and respond to cyber threats.
+- **Penetration Testing**: Hands-on experience using Kali Linux for vulnerability assessments and penetration tests.
+- **Cloud Security (Azure, AWS)**: Secure cloud infrastructures and applications using native security tools.
+- **Python & Bash Scripting**: Writing scripts to automate security monitoring and incident response.
+
+### Contact Me
+
+If you’d like to collaborate or have any questions, feel free to reach out!
+
+[LinkedIn Profile](https://www.linkedin.com/in/dagim-endale)
+
+---
+
+### **Styling Customizations:**
+
+```css
+/* Basic styling for your portfolio */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Navigation bar */
+header nav ul {
+    list-style-type: none;
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+header nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Intro Section */
+.intro {
+    text-align: center;
+    padding: 50px;
+    background-color: #fff;
+}
+
+.intro h1 {
+    font-size: 3em;
+    margin: 0;
+}
+
+.intro p {
+    font-size: 1.2em;
+    margin-top: 10px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
+
+/* Skills Section */
+#skills {
+    background-color: #f9f9f9;
+    padding: 40px;
+    text-align: center;
+}
+
+.skills-list ul {
+    list-style: none;
+    padding: 0;
+    font-size: 1.2em;
+}
+
+.skills-list ul li {
+    margin: 10px 0;
+}
+
+/* Contact Section */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+
+footer ul {
+    list-style-type: none;
+}
+
+footer ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+footer ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+footer ul li a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
